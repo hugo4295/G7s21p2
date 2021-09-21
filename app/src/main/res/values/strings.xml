@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G7s21p2</string>
+    <string name="btntitulo">Llamar actividad</string>
+    <string name="tp2">esta es la segundo pantalla</string>
+    <string name="btnp2titulo">Regresar a principal</string>
+    <string name="p3titulo">Esta es la pantalla 3</string>
+</resources>
